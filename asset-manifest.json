@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-solutions-recruitment-task/static/css/main.233b3b67.css",
+    "main.js": "/tech-solutions-recruitment-task/static/js/main.c7e7fea3.js",
+    "index.html": "/tech-solutions-recruitment-task/index.html",
+    "main.233b3b67.css.map": "/tech-solutions-recruitment-task/static/css/main.233b3b67.css.map",
+    "main.c7e7fea3.js.map": "/tech-solutions-recruitment-task/static/js/main.c7e7fea3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233b3b67.css",
+    "static/js/main.c7e7fea3.js"
+  ]
+}
